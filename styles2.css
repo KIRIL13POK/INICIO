@@ -1,0 +1,32 @@
+h1{
+    background-color: blue;
+    color: gold;
+    padding: 10px;
+    font:oblique bold 333% cursive ;
+}
+h2{
+   background-color: red;
+   color: gold;
+   padding: 10px;
+   font:oblique bold 333% cursive ;
+}
+p{
+    font:oblique bold 120% cursive ;
+    color: gold;
+    background-color: green;
+}
+a{
+    font-size: 18px;
+    color: red;
+    background-color: blue;
+    font:oblique bold 120% cursive ;
+}
+#descripcion{border:13px solid green;
+    padding: 15px;
+
+}
+#tuputamadre{ background-color: green;}
+#ppp{background-color: blue;}
+#ART1{font:oblique bold 120% cursive ;
+    color: gold;
+    background-color: green;}

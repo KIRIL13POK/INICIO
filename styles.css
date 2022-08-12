@@ -1,0 +1,64 @@
+@font-face {
+    font-family: DynaPuff;
+    src: url(mis\ font-family/DynaPuff/DynaPuff-VariableFont_wdth,wght.ttf);
+}
+
+h1 {
+    
+    background-color: blue;
+    color: gold;
+    padding: 10px;
+    font-family: DynaPuff;
+    text-align: center;
+    font-size: 70px;
+}
+
+h2 {
+    text-align: center;
+    background-color: red;
+    color: gold;
+    padding: 10px;
+    font-family: DynaPuff;
+    font-size: 50px;
+}
+
+p {
+    font: oblique bold 120% cursive;
+    color: gold;
+    background-color: green;
+}
+
+a {
+    font-size: 18px;
+    color: red;
+    background-color: blue;
+    font: oblique bold 120% cursive;
+}
+
+#descripcion {
+    border: 13px solid green;
+    padding: 15px;
+
+}
+
+#tuputamadre {
+    background-color: green;
+}
+
+#ppp {
+    background-color: green;
+}
+#descripcion .prubas{
+    background-color: green;
+
+}
+#prubas{
+    width: 500px;
+    display: block;
+    margin: auto;
+    background-color: white;
+}
+img {
+    display:block;
+    margin:auto;
+    } 
