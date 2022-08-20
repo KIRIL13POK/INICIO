@@ -3,7 +3,7 @@
     src: url(mis\ font-family/DynaPuff/DynaPuff-VariableFont_wdth,wght.ttf);
 }
 
-h1 {
+#h1 {
     
     background-color: blue;
     color: gold;
@@ -11,21 +11,24 @@ h1 {
     font-family: DynaPuff;
     text-align: center;
     font-size: 70px;
+    border: solid 3px gold;
 }
 
-h2 {
-    text-align: center;
-    background-color: red;
+#h2 {
+    background-color: blue;
     color: gold;
     padding: 10px;
     font-family: DynaPuff;
-    font-size: 50px;
+    text-align: center;
+    font-size: 25px;
+    border: solid 3px gold;
 }
 
-p {
+#p {
     font: oblique bold 120% cursive;
     color: gold;
     background-color: green;
+    border: solid 5px goldñ;
 }
 
 a {
@@ -61,4 +64,8 @@ a {
 img {
     display:block;
     margin:auto;
+    border: solid 5px gold;
     } 
+    #13{
+        padding:10px;
+    }

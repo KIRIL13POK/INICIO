@@ -1,0 +1,108 @@
+body {
+    background-color: rgb(113, 113, 111);
+}
+
+@font-face {
+    font-family: DynaPuff;
+    src: url(mis_font-family/DynaPuff/DynaPuff-VariableFont_wdth\,wght.ttf);
+
+}
+
+@font-face {
+    font-family: Rubik_Dirt;
+    src: url(mis_font-family/Rubik_Dirt/OFL.txt);
+
+}
+
+@font-face {
+    font-family: AlumniSansCollegiateOne-Italic;
+    src: url(mis_font-family/Alumni_Sans_Collegiate_One/AlumniSansCollegiateOne-Italic.ttf);
+}
+
+#h1 {
+    border: 5px solid black;
+    padding: 10px;
+    background-color: red;
+    color: beige;
+    font-family: DynaPuff;
+    text-align: center;
+}
+
+#imagenes {
+    background-image: url(IMG.BOXEO/fondo\ \(2\).jpg);
+    display: flex;
+
+
+}
+
+#img {
+    display: flex;
+    margin: auto;
+}
+
+#h2 {
+    border: 5px solid black;
+    padding: 10px;
+    background-color: red;
+    color: beige;
+    font-family: DynaPuff;
+    text-align: center;
+
+}
+
+#info {
+    border: 5px solid black;
+    padding: 10px;
+    background-image: url(IMG.BOXEO/patron2.1.jpg);
+    
+
+    color: beige;
+    font-family: DynaPuff;
+    text-align: center;
+    display: flex;
+}
+
+#pie {
+    border: 5px solid black;
+    padding: 10px;
+    background-color: gold;
+    color: black;
+    font-family: DynaPuff;
+    text-align: center;
+}
+
+#letras {
+    border: 5px solid black;
+    padding: 10px;
+    background-image: url(IMG.BOXEO/patron2.5.jpg);
+    color: beige;
+    font-family: DynaPuff;
+    text-align: center;
+
+}
+
+table {
+    position: relative;
+    margin: auto;
+    width: 100%;
+}
+
+table thead tr th {
+    padding: 10px;
+}
+
+table tbody tr td {
+    padding: 10px;
+}
+
+/*
+#contenido{
+    background-image: url(IMG.BOXEO/patron2.1.jpg);
+}
+#contenido2{
+    background-image: url(IMG.BOXEO/patron2.1.jpg);
+}
+.box{
+    background-image: url(IMG.BOXEO/patron2.1.jpg);
+
+}*/

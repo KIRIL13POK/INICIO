@@ -3,17 +3,12 @@
 
     src: url(mis_font-family/DynaPuff/DynaPuff-VariableFont_wdth\,wght.ttf);
 }
-#cabeza{
-    font-family:DynaPuff-VariableFont;
-    color: brown;
-    background: #444;
-    text-align: center;
-    image-rendering: auto;
-}
+#
 #tabla{
     color: rgb(207, 219, 194);
     font-family:DynaPuff-VariableFont;
     background: #444;
+    padding: 3px;
 
 
 }
@@ -24,11 +19,26 @@
      text-align: center;
 
 }
-h1{
-    font-family:DynaPuff-VariableFont;
-    text-align: center;
-    padding: auto;
-    background: #444;
-    color: rgb(181, 11, 17);
+
+body{
+    background: rgb(26, 6, 113);
+
 }
 
+
+
+#h1{
+    border: 5px solid black;
+    padding: 10px;
+    background-color: red;
+    color: beige;
+    font-family:DynaPuff-VariableFont;
+    text-align: center;
+}
+#h2{
+    border: 5px solid black;
+    padding: 10px;
+    background-color: red;
+    color: beige;
+    font-family:DynaPuff-VariableFont;
+    text-align: center;
